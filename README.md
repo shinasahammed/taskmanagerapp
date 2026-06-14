@@ -28,7 +28,7 @@ Flutter 3.44.2
 
 * http
 * shared_preferences
-* flutter_test
+
 
 ## Project Structure
 
