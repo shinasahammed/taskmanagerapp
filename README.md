@@ -22,20 +22,7 @@ The app fetches tasks from JSONPlaceholder API and supports:
 
 * http
 * shared_preferences
-* flutter_test
 
-## Project Structure
-
-lib/
-├── models/
-├── services/
-├── screens/
-├── widgets/
-├── helpers/
-└── main.dart
-
-test/
-└── todo_api_service_test.dart
 
 
 
